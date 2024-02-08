@@ -1,0 +1,562 @@
+﻿[
+	{
+		"pergunta": "Qual é o maior planeta do Sistema Solar?",
+		"categoria": "Astronomia",
+		"alternativas": {
+			"1": "Marte",
+			"2": "Saturno",
+			"3": "Júpiter",
+			"4": "Urano",
+			"5": "Terra"
+		},
+		"pontuacao": 1,
+		"correta": 3,
+		"peso": 1
+	},
+	{
+		"pergunta": "Quem pintou a Mona Lisa?",
+		"categoria": "Arte",
+		"alternativas": {
+			"1": "Vincent Van Gogh",
+			"2": "Pablo Picasso",
+			"3": "Leonardo da Vinci",
+			"4": "Michelangelo",
+			"5": "Rafael Sanzio"
+		},
+		"pontuacao": 1,
+		"correta": 3,
+		"peso": 1
+	},
+	{
+		"pergunta": "Qual desses países é transcontinental, localizado na Ásia e na Europa?",
+		"categoria": "Geografia",
+		"alternativas": {
+			"1": "Egito",
+			"2": "Rússia",
+			"3": "Turquia",
+			"4": "Cazaquistão",
+			"5": "Grécia"
+		},
+		"pontuacao": 1,
+		"correta": 3,
+		"peso": 3
+	},
+	{
+		"pergunta": "Quem escreveu 'Dom Casmurro'?",
+		"categoria": "Literatura",
+		"alternativas": {
+			"1": "Machado de Assis",
+			"2": "José de Alencar",
+			"3": "Aluísio Azevedo",
+			"4": "Jorge Amado",
+			"5": "Graciliano Ramos"
+		},
+		"pontuacao": 1,
+		"correta": 1,
+		"peso": 3
+	},
+	{
+		"pergunta": "Qual é o elemento químico mais abundante no universo?",
+		"categoria": "Química",
+		"alternativas": {
+			"1": "Oxigênio",
+			"2": "Hidrogênio",
+			"3": "Carbono",
+			"4": "Ferro",
+			"5": "Hélio"
+		},
+		"pontuacao": 1,
+		"correta": 2,
+		"peso": 1
+	},
+	{
+		"pergunta": "Qual destas civilizações foi a primeira a desenvolver a escrita?",
+		"categoria": "História",
+		"alternativas": {
+			"1": "Egípcia",
+			"2": "Suméria",
+			"3": "Chinesa",
+			"4": "Indus",
+			"5": "Maia"
+		},
+		"pontuacao": 1,
+		"correta": 2,
+		"peso": 5
+	},
+	{
+		"pergunta": "O que a sigla 'www' representa na Internet?",
+		"categoria": "Tecnologia",
+		"alternativas": {
+			"1": "World Wide Web",
+			"2": "World Web Wide",
+			"3": "Wide World Web",
+			"4": "Web World Wide",
+			"5": "Wide Web World"
+		},
+		"pontuacao": 1,
+		"correta": 1,
+		"peso": 1
+	},
+	{
+		"pergunta": "Qual destes elementos é considerado um gás nobre?",
+		"categoria": "Química",
+		"alternativas": {
+			"1": "Oxigênio",
+			"2": "Hidrogênio",
+			"3": "Neônio",
+			"4": "Carbono",
+			"5": "Nitrogênio"
+		},
+		"pontuacao": 1,
+		"correta": 3,
+		"peso": 1
+	},
+	{
+		"pergunta": "Qual desses rios é o mais longo do mundo?",
+		"categoria": "Geografia",
+		"alternativas": {
+			"1": "Amazonas",
+			"2": "Nilo",
+			"3": "Mississippi",
+			"4": "Yangtzé",
+			"5": "Congo"
+		},
+		"pontuacao": 1,
+		"correta": 1,
+		"peso": 3
+	},
+	{
+		"pergunta": "Em que ano o homem pisou na Lua pela primeira vez?",
+		"categoria": "História",
+		"alternativas": {
+			"1": "1965",
+			"2": "1969",
+			"3": "1971",
+			"4": "1973",
+			"5": "1967"
+		},
+		"pontuacao": 1,
+		"correta": 2,
+		"peso": 1
+	},
+	{
+		"pergunta": "Qual é a capital do Canadá?",
+		"categoria": "Geografia",
+		"alternativas": {
+			"1": "Toronto",
+			"2": "Montreal",
+			"3": "Vancouver",
+			"4": "Ottawa",
+			"5": "Quebec"
+		},
+		"pontuacao": 1,
+		"correta": 4,
+		"peso": 3
+	},
+	{
+		"pergunta": "Quem é conhecido como o Pai da Computação?",
+		"categoria": "Tecnologia",
+		"alternativas": {
+			"1": "Steve Jobs",
+			"2": "Bill Gates",
+			"3": "Alan Turing",
+			"4": "Charles Babbage",
+			"5": "Tim Berners-Lee"
+		},
+		"pontuacao": 1,
+		"correta": 4,
+		"peso": 3
+	},
+	{
+		"pergunta": "Qual destes animais é um mamífero marinho?",
+		"categoria": "Biologia",
+		"alternativas": {
+			"1": "Tubarão",
+			"2": "Baleia-azul",
+			"3": "Polvo",
+			"4": "Salmão",
+			"5": "Camarão"
+		},
+		"pontuacao": 1,
+		"correta": 2,
+		"peso": 1
+	},
+	{
+		"pergunta": "Em que ano começou a Segunda Guerra Mundial?",
+		"categoria": "História",
+		"alternativas": {
+			"1": "1914",
+			"2": "1939",
+			"3": "1945",
+			"4": "1923",
+			"5": "1935"
+		},
+		"pontuacao": 1,
+		"correta": 2,
+		"peso": 1
+	},
+	{
+		"pergunta": "Qual é a fórmula química da água?",
+		"categoria": "Química",
+		"alternativas": {
+			"1": "CO2",
+			"2": "NaCl",
+			"3": "H2SO4",
+			"4": "H2O",
+			"5": "O2"
+		},
+		"pontuacao": 1,
+		"correta": 4,
+		"peso": 1
+	},
+	{
+		"pergunta": "Quem escreveu 'Cem Anos de Solidão'?",
+		"categoria": "Literatura",
+		"alternativas": {
+			"1": "Julio Cortázar",
+			"2": "Gabriel García Márquez",
+			"3": "Mario Vargas Llosa",
+			"4": "Jorge Luis Borges",
+			"5": "Carlos Fuentes"
+		},
+		"pontuacao": 1,
+		"correta": 2,
+		"peso": 3
+	},
+	{
+		"pergunta": "Qual é o país mais populoso do mundo?",
+		"categoria": "Geografia",
+		"alternativas": {
+			"1": "Estados Unidos",
+			"2": "Índia",
+			"3": "China",
+			"4": "Indonésia",
+			"5": "Brasil"
+		},
+		"pontuacao": 1,
+		"correta": 3,
+		"peso": 1
+	},
+	{
+		"pergunta": "Qual destes elementos é um metal alcalino?",
+		"categoria": "Química",
+		"alternativas": {
+			"1": "Sódio",
+			"2": "Ferro",
+			"3": "Cobre",
+			"4": "Zinco",
+			"5": "Carbono"
+		},
+		"pontuacao": 1,
+		"correta": 1,
+		"peso": 3
+	},
+	{
+		"pergunta": "Qual é a velocidade da luz?",
+		"categoria": "Física",
+		"alternativas": {
+			"1": "300.000 km/s",
+			"2": "150.000 km/s",
+			"3": "299.792 km/s",
+			"4": "250.000 km/s",
+			"5": "350.000 km/s"
+		},
+		"pontuacao": 1,
+		"correta": 3,
+		"peso": 5
+	},
+	{
+		"pergunta": "O que significa a sigla 'DNA'?",
+		"categoria": "Biologia",
+		"alternativas": {
+			"1": "Dinucleotide Acid",
+			"2": "Deoxyribonucleic Acid",
+			"3": "Dinucleic Acid",
+			"4": "Deoxynucleic Acid",
+			"5": "Dioxyribonucleic Acid"
+		},
+		"pontuacao": 1,
+		"correta": 2,
+		"peso": 3
+	},
+		{
+			"pergunta": "Qual é o rio mais longo da Ásia?",
+			"categoria": "Geografia",
+			"alternativas": {
+				"1": "Ganges",
+				"2": "Mekong",
+				"3": "Yangtzé",
+				"4": "Indo",
+				"5": "Amur"
+			},
+			"pontuacao": 1,
+			"correta": 3,
+			"peso": 3
+		},
+		{
+			"pergunta": "Quem é o autor de 'A Metamorfose'?",
+			"categoria": "Literatura",
+			"alternativas": {
+				"1": "Fyodor Dostoevsky",
+				"2": "Franz Kafka",
+				"3": "Albert Camus",
+				"4": "Leo Tolstoy",
+				"5": "Herman Melville"
+			},
+			"pontuacao": 1,
+			"correta": 2,
+			"peso": 3
+		},
+		{
+			"pergunta": "Qual é o principal componente da areia?",
+			"categoria": "Química",
+			"alternativas": {
+				"1": "Carbonato de cálcio",
+				"2": "Óxido de ferro",
+				"3": "Sílica (dióxido de silício)",
+				"4": "Sal (cloreto de sódio)",
+				"5": "Argila"
+			},
+			"pontuacao": 1,
+			"correta": 3,
+			"peso": 3
+		},
+		{
+			"pergunta": "Em que país foi inventado o papel moeda?",
+			"categoria": "História",
+			"alternativas": {
+				"1": "Índia",
+				"2": "China",
+				"3": "Egito",
+				"4": "Grécia",
+				"5": "Itália"
+			},
+			"pontuacao": 1,
+			"correta": 2,
+			"peso": 5
+		},
+		{
+			"pergunta": "Qual destes países não tem uma monarquia constitucional?",
+			"categoria": "Política",
+			"alternativas": {
+				"1": "Reino Unido",
+				"2": "Japão",
+				"3": "França",
+				"4": "Suécia",
+				"5": "Noruega"
+			},
+			"pontuacao": 1,
+			"correta": 3,
+			"peso": 3
+		},
+		{
+			"pergunta": "Que vitamina é produzida quando a pele é exposta ao sol?",
+			"categoria": "Biologia",
+			"alternativas": {
+				"1": "Vitamina A",
+				"2": "Vitamina B",
+				"3": "Vitamina C",
+				"4": "Vitamina D",
+				"5": "Vitamina E"
+			},
+			"pontuacao": 1,
+			"correta": 4,
+			"peso": 1
+		},
+		{
+			"pergunta": "Qual é o metal mais condutivo?",
+			"categoria": "Física",
+			"alternativas": {
+				"1": "Ferro",
+				"2": "Ouro",
+				"3": "Cobre",
+				"4": "Alumínio",
+				"5": "Prata"
+			},
+			"pontuacao": 1,
+			"correta": 5,
+			"peso": 3
+		},
+		{
+			"pergunta": "Qual é a capital da Nova Zelândia?",
+			"categoria": "Geografia",
+			"alternativas": {
+				"1": "Auckland",
+				"2": "Christchurch",
+				"3": "Wellington",
+				"4": "Hamilton",
+				"5": "Dunedin"
+			},
+			"pontuacao": 1,
+			"correta": 3,
+			"peso": 3
+		},
+		{
+			"pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+			"categoria": "História",
+			"alternativas": {
+				"1": "Thomas Jefferson",
+				"2": "Abraham Lincoln",
+				"3": "George Washington",
+				"4": "John Adams",
+				"5": "Benjamin Franklin"
+			},
+			"pontuacao": 1,
+			"correta": 3,
+			"peso": 1
+		},
+		{
+			"pergunta": "O que 'HTTP' significa?",
+			"categoria": "Tecnologia",
+			"alternativas": {
+				"1": "HyperText Transfer Product",
+				"2": "HyperText Transfer Protocol",
+				"3": "HyperTransfer Text Protocol",
+				"4": "HyperTextual Transfer Protocol",
+				"5": "HyperText Transmission Protocol"
+			},
+			"pontuacao": 1,
+			"correta": 2,
+			"peso": 1
+		},
+	{
+		"pergunta": "Qual é a capital do Egito?",
+		"categoria": "Geografia",
+		"alternativas": {
+			"1": "Luxor",
+			"2": "Alexandria",
+			"3": "Giza",
+			"4": "Cairo",
+			"5": "Aswan"
+		},
+		"pontuacao": 1,
+		"correta": 4,
+		"peso": 1
+	},
+	{
+		"pergunta": "Quem escreveu 'Orgulho e Preconceito'?",
+		"categoria": "Literatura",
+		"alternativas": {
+			"1": "Emily Brontë",
+			"2": "Jane Austen",
+			"3": "Charlotte Brontë",
+			"4": "Mary Shelley",
+			"5": "Louisa May Alcott"
+		},
+		"pontuacao": 1,
+		"correta": 2,
+		"peso": 1
+	},
+	{
+		"pergunta": "O que é H2O2 conhecido popularmente?",
+		"categoria": "Química",
+		"alternativas": {
+			"1": "Água oxigenada",
+			"2": "Ácido clorídrico",
+			"3": "Álcool etílico",
+			"4": "Ácido sulfúrico",
+			"5": "Água"
+		},
+		"pontuacao": 1,
+		"correta": 1,
+		"peso": 1
+	},
+	{
+		"pergunta": "Quem pintou 'A Noite Estrelada'?",
+		"categoria": "Arte",
+		"alternativas": {
+			"1": "Pablo Picasso",
+			"2": "Vincent Van Gogh",
+			"3": "Claude Monet",
+			"4": "Leonardo da Vinci",
+			"5": "Rembrandt"
+		},
+		"pontuacao": 1,
+		"correta": 2,
+		"peso": 1
+	},
+	{
+		"pergunta": "Qual destes animais é um réptil?",
+		"categoria": "Biologia",
+		"alternativas": {
+			"1": "Tubarão",
+			"2": "Crocodilo",
+			"3": "Baleia",
+			"4": "Salmão",
+			"5": "Golfinho"
+		},
+		"pontuacao": 1,
+		"correta": 2,
+		"peso": 1
+	},
+	{
+		"pergunta": "Em que ano caiu o Muro de Berlim?",
+		"categoria": "História",
+		"alternativas": {
+			"1": "1989",
+			"2": "1991",
+			"3": "1987",
+			"4": "1990",
+			"5": "1985"
+		},
+		"pontuacao": 1,
+		"correta": 1,
+		"peso": 1
+	},
+	{
+		"pergunta": "Qual é o maior órgão do corpo humano?",
+		"categoria": "Biologia",
+		"alternativas": {
+			"1": "Fígado",
+			"2": "Coração",
+			"3": "Pele",
+			"4": "Cérebro",
+			"5": "Pulmão"
+		},
+		"pontuacao": 1,
+		"correta": 3,
+		"peso": 1
+	},
+	{
+		"pergunta": "Qual destes elementos é líquido em temperatura ambiente?",
+		"categoria": "Química",
+		"alternativas": {
+			"1": "Ouro",
+			"2": "Mercúrio",
+			"3": "Platina",
+			"4": "Ferro",
+			"5": "Cobre"
+		},
+		"pontuacao": 1,
+		"correta": 2,
+		"peso": 1
+	},
+	{
+		"pergunta": "Quem é o autor de 'Macunaíma'?",
+		"categoria": "Literatura",
+		"alternativas": {
+			"1": "Mário de Andrade",
+			"2": "Jorge Amado",
+			"3": "Graciliano Ramos",
+			"4": "José de Alencar",
+			"5": "Machado de Assis"
+		},
+		"pontuacao": 1,
+		"correta": 1,
+		"peso": 3
+	},
+	{
+		"pergunta": "Qual destas cidades é a capital da Austrália?",
+		"categoria": "Geografia",
+		"alternativas": {
+			"1": "Sydney",
+			"2": "Melbourne",
+			"3": "Perth",
+			"4": "Canberra",
+			"5": "Brisbane"
+		},
+		"pontuacao": 1,
+		"correta": 4,
+		"peso": 3
+	}
+]
