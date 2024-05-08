@@ -11,6 +11,7 @@ namespace Quiz
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            //TODO: remover este comentário
             if (!IsPostBack)
             {
                 Response.Redirect("Quiz");
