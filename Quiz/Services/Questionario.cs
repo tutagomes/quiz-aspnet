@@ -11,20 +11,20 @@ namespace Quiz.Services
 {
     public class Questionario
     {
-        private List<Pergunta> _perguntas;
+        public List<Pergunta> Perguntas;
         public List<Pergunta> CarregarPerguntas(string caminhoArquivo = null)
         {
             if (caminhoArquivo == null) {
                 caminhoArquivo = HostingEnvironment.MapPath("~/Dados/Perguntas.json");
             }
             var json = File.ReadAllText(caminhoArquivo);
-            _perguntas = JsonConvert.DeserializeObject<List<Pergunta>>(json);
-            return _perguntas;
+            Perguntas = JsonConvert.DeserializeObject<List<Pergunta>>(json);
+            return Perguntas;
         }
 
         public List<Pergunta> SelecionarPerguntasAleatorias(int quantidade = 6)
         {
-            if (_perguntas == null || _perguntas.Count < 1)
+            if (Perguntas == null || Perguntas.Count < 1)
             {
                 var pergunta = new Pergunta
                 {
@@ -38,7 +38,7 @@ namespace Quiz.Services
                 lista.Append(pergunta);
                 return lista;
             };
-            return _perguntas.Take(quantidade).ToList();
+            return Perguntas.Take(quantidade).ToList();
         }
 
 
